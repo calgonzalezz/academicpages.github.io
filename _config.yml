@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Carlos Gonzalez / PhD Student Management"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Carlos Gonzalez"
+description              : &description "Research in non-market strategy and political economy"
 url                      : https://calgonzalezz.github.io/personalpage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "calgonzalezz/personalpage"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Carlos Gonzalez"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research in non-market strategy and political economy"
+  location         : "Paris, France"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "carlos.gonzalez-regalado@dauphine.fr"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "calgonzalez84"
   vine             :
   weibo            :
   xing             :
