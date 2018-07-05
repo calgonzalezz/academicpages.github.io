@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carlos Gonzalez / PhD Student Management"
+title                    : "Carlos Gonzalez / PhD Researcher"
 title_separator          : "-"
 name                     : &name "Carlos Gonzalez"
 description              : &description "Research in non-market strategy and political economy"
@@ -82,8 +82,8 @@ author:
   avatar           : "profile.jpg"
   bio              : "Research in non-market strategy and political economy"
   location         : "Paris, France"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Université Paris Dauphine" 
+  googlescholar    : 
   email            : "carlos.gonzalez-regalado@dauphine.fr"
   uri              :
   bitbucket        :
