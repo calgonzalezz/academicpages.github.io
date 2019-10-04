@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carlos Gonzalez"
+  name             : "Carlos Gonzalez-Regalado"
   avatar           : "profile.jpg"
-  bio              : "Research in non-market strategy and political economy"
+  bio              : "I am a PhD student at DRM-MO Lab and I use text analysis to understand institutional arrangements in economic regulation"
   location         : "Paris, France"
   employer         : "Université Paris Dauphine" 
   googlescholar    : 
-  email            : "carlos.gonzalez-regalado@dauphine.fr"
+  email            : "carlos.gonzalez-regalado@dauphine.psl.eu"
   uri              :
   bitbucket        :
   codepen          :
