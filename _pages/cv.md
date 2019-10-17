@@ -14,47 +14,35 @@ Education
 * B.S. in Economics, Pontifica Universidad Católica del Ecuador, 2011
 * M.S. in Economics, Tilburg University, 2016
 * M.S. in Econometrics and Mathematical Economics, Tilburg University, 2017
-* Ph.D in Management, Université Paris Dauphine, 2020 (expected)
+* Ph.D candidate in Management, Université Paris Dauphine
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: MSc. Economics Thesis
+  * Tilburg University
+  * Title: The impact of openness: Effects of Foreign Direct Investment and migration on income
+  * Supervisor: Professor Sule Akkoyunlu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2016: MSc. Econometrics and Mathematical Economics Thesis
+  * Tilburg University
+  * Title: The Impact of Family Background and School Quality on Student Achievement for Ecuador
+  * Supervisor: Dr. Pavel Cizek
 
-Publications
+
+Working projects
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
