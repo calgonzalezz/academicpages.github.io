@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carlos Gonzalez / PhD Researcher"
+title                    : "Carlos Gonzalez / PhD Student"
 title_separator          : "-"
 name                     : &name "Carlos Gonzalez"
-description              : &description "Research in non-market strategy and political economy"
+description              : &description "I am interested in economic regulation, political economy and econometrics"
 url                      : https://calgonzalezz.github.io/personalpage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "calgonzalezz/personalpage"
