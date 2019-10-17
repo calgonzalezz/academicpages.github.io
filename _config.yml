@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carlos Gonzalez / PhD Student"
+title                    : "Carlos Gonzalez / Economist"
 title_separator          : "-"
 name                     : &name "Carlos Gonzalez"
-description              : &description "I am interested in economic regulation, political economy and econometrics"
+description              : &description "I am interested in economic regulation, political economy and econometrics. PhD student"
 url                      : https://calgonzalezz.github.io/personalpage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "calgonzalezz/personalpage"
@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Carlos Gonzalez R."
   avatar           : "profile.jpg"
-  bio              : "I am interested in economic regulation, political economy and econometrics"
+  bio              : "I am interested in economic regulation, political economy and econometrics. PhD student"
   location         : "Paris, France"
-  employer         : "Université Paris Dauphine" 
-  googlescholar    : 
+  employer         : "Université Paris Dauphine"
+  googlescholar    :
   email            : "carlos.gonzalez-regalado@dauphine.psl.eu"
   uri              :
   bitbucket        :
@@ -92,16 +92,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "chalognz7"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "calgonzalez84"
